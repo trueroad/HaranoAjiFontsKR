@@ -39,6 +39,16 @@ for details.
 ## Release Notes
 
 * [
+20230223
+](https://github.com/trueroad/HaranoAjiFontsKR/releases/tag/20230223)
+(JP, KR)
+    + Update CMap (JP, KR)
+    + Update
+        + UniJIS2004-UTF32-H 1.022
+        + Adobe-Japan1_sequences.txt 2022-09-14
+        + UniAKR-UTF32-H 1.003
+        + ttx 4.38.0
+* [
 20220220
 ](https://github.com/trueroad/HaranoAjiFontsKR/releases/tag/20220220)
 (JP, CN, TW, KR, K1)
@@ -182,7 +192,7 @@ for details.
 
 ## LICENSE
 
-Copyright (C) 2019-2022
+Copyright (C) 2019-2023
 Masamichi Hosoda, with Reserved Font Name 'Harano Aji'.
 
 Copyright 2014-2021 Adobe (http://www.adobe.com/),
